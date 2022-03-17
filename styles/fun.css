@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+video{
+    margin-top: 30px;
+    margin-left: 600px;
+    height: 700px;
+}
+#imgs img{
+    width: 31%;
+    margin-right: 2%;
+    margin-top: 300px;
+    opacity: 0;
+    float: left;
+}
+#imgs{
+    margin-top: -50px;
+    margin-left: 20px;
+}
+#end{
+    width: 0px;
+    height: 755px;
+    padding: 0px;
+    opacity: 0;
+    margin-top: -60px;
+}
